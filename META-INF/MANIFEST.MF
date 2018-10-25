@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Created-By: 1.0 (Android SignApk)
 
 Name: META-INF/com/google/android/update-binary
-SHA1-Digest: NsY9ZL3AHvwYFaPI9gts6q2F/WU=
+SHA1-Digest: BPOmH7XPdXaohg2TVUohtDY/72c=
 
 Name: META-INF/com/google/android/updater-script
 SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
@@ -18,16 +18,16 @@ Name: system/app/TimeWeather/TimeWeather.apk
 SHA1-Digest: wmx4E+tTGW6tYvxMX4ebYIO8bvs=
 
 Name: module.prop
-SHA1-Digest: +ZJmoLwJZ/iQFmJPeWhA2+24cI8=
+SHA1-Digest: 1HM9YGdBgWU/iee+qbwZZm9Z0n0=
 
 Name: README.md
-SHA1-Digest: YQqR7zeY1s78oDWfKQUbMzZaLLk=
+SHA1-Digest: ebiecD2TrZ8vEPjQN+u9VEROq0M=
 
 Name: common/system.prop
 SHA1-Digest: 7TnZoxe4jX3vocrbr/oRcPziZMQ=
 
 Name: config.sh
-SHA1-Digest: 3s0qp4Ruh4pYMGJH1QDmSBYBn8Y=
+SHA1-Digest: l/G6VkO5fr5EsuoARPwP1jx7pJo=
 
 Name: common/service.sh
 SHA1-Digest: hCOn0sjc2mEMqqqcb7TFt4BEcVM=
