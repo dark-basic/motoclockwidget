@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: dgW1w5f35bjjYefZ4BrkK/KSrCA=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: L7Ge468O6tiASB57sIl1xsvwElA=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: system/etc/permissions/com.motorola.timeweatherwidget.library.xm
+ l
+SHA1-Digest-Manifest: 3LWLkHogBmQg1sTrJpm4VAuQ2FU=
+
+Name: system/framework/com.motorola.timeweatherwidget.library.jar
+SHA1-Digest-Manifest: qqBI1KbRWKLTU3ay/27sFTY3e2s=
+
+Name: system/app/TimeWeather/TimeWeather.apk
+SHA1-Digest-Manifest: UnvjMmfpBTtyQ2dQ0aUysCda8IM=
+
+Name: common/system.prop
+SHA1-Digest-Manifest: HbzvC3Tyik76s7nzWE6amQuJyXg=
+
+Name: README.md
+SHA1-Digest-Manifest: sv9b7CLZJpbOasuZtEGoQ0fzMvk=
+
+Name: module.prop
+SHA1-Digest-Manifest: d2XDpMxEH43FcI2iqrP/en1D7NY=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: TOn/zXTfuf86lkAJLKXrKctujsY=
+
+Name: config.sh
+SHA1-Digest-Manifest: EqBwebpKu4qXKzZvFGlJvpSb1sI=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: SyX3X/PeDY9ntN8RXeBKc888YZg=
+
